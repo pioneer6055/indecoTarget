@@ -1,0 +1,67 @@
+C:\FRC\projects\indecoTarget\obj\Debug\indecoTarget.frmMain.resources
+C:\FRC\projects\indecoTarget\obj\Debug\indecoTarget.csproj.GenerateResource.Cache
+C:\FRC\projects\indecoTarget\bin\Debug\indecoTarget.exe.config
+C:\FRC\projects\indecoTarget\bin\Debug\indecoTarget.exe
+C:\FRC\projects\indecoTarget\bin\Debug\indecoTarget.pdb
+C:\FRC\projects\indecoTarget\obj\Debug\indecoTarget.Properties.Resources.resources
+C:\FRC\projects\indecoTarget\obj\Debug\indecoTarget.exe
+C:\FRC\projects\indecoTarget\obj\Debug\indecoTarget.pdb
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\indecoTarget.exe.config
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\indecoTarget.exe
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\indecoTarget.pdb
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\Emgu.CV.dll
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\Emgu.CV.UI.dll
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\Emgu.Util.dll
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\ZedGraph.dll
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\Emgu.CV.xml
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\Emgu.CV.UI.xml
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\Emgu.Util.xml
+C:\FRC\projects\indecoTarget - Copy\obj\Debug\indecoTarget.csprojResolveAssemblyReference.cache
+C:\FRC\projects\indecoTarget - Copy\obj\Debug\indecoTarget.frmMain.resources
+C:\FRC\projects\indecoTarget - Copy\obj\Debug\indecoTarget.Properties.Resources.resources
+C:\FRC\projects\indecoTarget - Copy\obj\Debug\indecoTarget.csproj.GenerateResource.Cache
+C:\FRC\projects\indecoTarget - Copy\obj\Debug\indecoTarget.exe
+C:\FRC\projects\indecoTarget - Copy\obj\Debug\indecoTarget.pdb
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\FRC.NetworkTables.Core.dll
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\NativeLibraryUtilities.dll
+C:\FRC\projects\indecoTarget - Copy\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.dll
+C:\Projects\indecoTarget\bin\Debug\indecoTarget.exe.config
+C:\Projects\indecoTarget\obj\Debug\indecoTarget.exe
+C:\Projects\indecoTarget\obj\Debug\indecoTarget.pdb
+C:\Projects\indecoTarget\bin\Debug\indecoTarget.exe
+C:\Projects\indecoTarget\bin\Debug\indecoTarget.pdb
+C:\Projects\indecoTarget\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.dll
+C:\Projects\indecoTarget\bin\Debug\FRC.NetworkTables.Core.dll
+C:\Projects\indecoTarget\bin\Debug\NativeLibraryUtilities.dll
+C:\Projects\indecoTarget\obj\Debug\indecoTarget.frmMain.resources
+C:\Projects\indecoTarget\obj\Debug\indecoTarget.Properties.Resources.resources
+C:\Projects\indecoTarget\obj\Debug\indecoTarget.csproj.GenerateResource.Cache
+C:\Projects\indecoTarget\obj\Debug\indecoTarget.csprojResolveAssemblyReference.cache
+C:\FRC\projects\indecoTarget\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.dll
+C:\FRC\projects\indecoTarget\bin\Debug\FRC.NetworkTables.Core.dll
+C:\FRC\projects\indecoTarget\bin\Debug\NativeLibraryUtilities.dll
+C:\FRC\projects\indecoTarget\obj\Debug\indecoTarget.csprojResolveAssemblyReference.cache
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.Controls.dll
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.dll
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.Imaging.dll
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.Video.DirectShow.dll
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.Video.dll
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.Math.dll
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.xml
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.Controls.xml
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.Imaging.xml
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.Video.xml
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.Video.DirectShow.xml
+C:\FRC\projects\indecoTarget\bin\Debug\AForge.Math.xml
+C:\Projects\indecoTarget\bin\Debug\AForge.Controls.dll
+C:\Projects\indecoTarget\bin\Debug\AForge.dll
+C:\Projects\indecoTarget\bin\Debug\AForge.Imaging.dll
+C:\Projects\indecoTarget\bin\Debug\AForge.Video.DirectShow.dll
+C:\Projects\indecoTarget\bin\Debug\AForge.Video.dll
+C:\Projects\indecoTarget\bin\Debug\AForge.Math.dll
+C:\Projects\indecoTarget\bin\Debug\AForge.xml
+C:\Projects\indecoTarget\bin\Debug\AForge.Controls.xml
+C:\Projects\indecoTarget\bin\Debug\AForge.Imaging.xml
+C:\Projects\indecoTarget\bin\Debug\AForge.Video.xml
+C:\Projects\indecoTarget\bin\Debug\AForge.Video.DirectShow.xml
+C:\Projects\indecoTarget\bin\Debug\AForge.Math.xml
